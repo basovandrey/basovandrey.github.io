@@ -1,0 +1,18 @@
+<addon
+    title="Andrey (NewNavitel)" 
+	title:ru="Андрей (NewNavitel)"
+	
+    description="Andrey (NewNavitel)\n\n[picture=preview_1]\n\n"
+    description:ru="Андрей (NewNavitel)\n\n[picture=preview_1]\n\n- Голосовой пакет на русском языке с расширенным набором уведомлений speedcam\n- Контакты: newnavitel.blogspot@gmail.com\n\n"
+
+	descFiles="preview_1.png;preview.opus"
+    type="sound"
+
+    zipSize="2696781"
+	addonSize="2763351"
+	
+	provider="NewNavitel"
+    url="https://raw.githubusercontent.com/basovandrey/Files/master/Content/Sound/Andrey_NewNavitel.zip"
+	programVer="1.81"
+ 
+  />

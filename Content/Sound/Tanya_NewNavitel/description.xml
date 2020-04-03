@@ -1,0 +1,18 @@
+<addon
+    title="Tanya (NewNavitel)" 
+	title:ru="Таня (NewNavitel)"
+	
+    description="Tanya (NewNavitel)\n\n[picture=preview_1]\n\n"
+    description:ru="Таня (NewNavitel)\n\n[picture=preview_1]\n\n- Голосовой пакет на русском языке с расширенным набором уведомлений speedcam\n- Контакты: newnavitel.blogspot@gmail.com\n\n"
+
+	descFiles="preview_1.png;preview.opus"
+    type="sound"
+
+    zipSize="2711697"
+	addonSize="2648658"
+	
+	provider="NewNavitel"
+    url="https://raw.githubusercontent.com/basovandrey/Files/master/Content/Sound/Tanya_NewNavitel.zip"
+	programVer="1.81"
+ 
+  />
