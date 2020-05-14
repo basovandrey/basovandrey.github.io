@@ -3,14 +3,15 @@
 	title:ru="Таня (NewNavitel)"
 	
     description="Tanya (NewNavitel)\n\n[picture=preview_1]\n\n"
-    description:ru="Таня (NewNavitel)\n\n[picture=preview_1]\n\n- Голосовой пакет на русском языке с расширенным набором уведомлений speedcam\n- Контакты: newnavitel.blogspot@gmail.com\n\n"
-
+    description:ru="Таня (NewNavitel)\n\n[picture=preview_1]\n\n
+	- Голосовой пакет на русском языке. Поддержка стандартный, расширенный и расширенный+ набор уведомлений speedcam\n
+	- Контакты: newnavitel.blogspot@gmail.com\n\n"
 	descFiles="preview_1.png;preview.opus"
     type="sound"
 
-    zipSize="2711697"
-	addonSize="2648658"
-	date="2020-04-13T12:06:14"
+    zipSize="310697"
+	addonSize="377658"
+	date="2020-05-14T23:09:09"
 	
 	provider="NewNavitel"
     url="https://basovandrey.github.io/Content/Sound/Tanya_NewNavitel.zip"

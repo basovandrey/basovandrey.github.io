@@ -3,14 +3,16 @@
 	title:ru="Андрей (NewNavitel)"
 	
     description="Andrey (NewNavitel)\n\n[picture=preview_1]\n\n"
-    description:ru="Андрей (NewNavitel)\n\n[picture=preview_1]\n\n- Голосовой пакет на русском языке с расширенным набором уведомлений speedcam\n- Контакты: newnavitel.blogspot@gmail.com\n\n"
+    description:ru="Андрей (NewNavitel)\n\n[picture=preview_1]\n\n
+	- Голосовой пакет на русском языке. Поддержка стандартный, расширенный и расширенный+ набор уведомлений speedcam\n
+	- Контакты: newnavitel.blogspot@gmail.com\n\n"
 
 	descFiles="preview_1.png;preview.opus"
     type="sound"
 
-    zipSize="2696781"
-	addonSize="2763351"
-	date="2020-04-12T23:02:20"
+    zipSize="310781"
+	addonSize="377351"
+	date="2020-05-14T23:09:09"
 	
 	provider="NewNavitel"
     url="https://basovandrey.github.io/Content/Sound/Andrey_NewNavitel.zip"
