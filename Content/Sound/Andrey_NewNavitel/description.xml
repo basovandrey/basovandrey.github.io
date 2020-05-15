@@ -3,9 +3,9 @@
 	title:ru="Андрей (NewNavitel)"
 	
     description="Andrey (NewNavitel)\n\n[picture=preview_1]\n\n"
-    description:ru="Андрей (NewNavitel)\n\n[picture=preview_1]\n\n
-- Голосовой пакет на русском языке. Поддерживает стандартный, расширенный и расширенный+ набор уведомлений speedcam\n
-- Контакты: newnavitel.blogspot@gmail.com\n\n"
+    description:ru="Андрей (NewNavitel)\n\n[picture=preview_1]\n\n"
+"- Голосовой пакет на русском языке. Поддерживает стандартный, расширенный и расширенный+ набор уведомлений speedcam\n"
+"- Контакты: newnavitel.blogspot@gmail.com\n\n"
 
 	descFiles="preview_1.png;preview.opus"
     type="sound"
