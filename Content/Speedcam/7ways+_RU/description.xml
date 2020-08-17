@@ -1,0 +1,21 @@
+<addon
+    title="7ways+_RU" 
+	title:ru="7ways+_RU"
+	
+    description="7ways+ Russia\n\n[picture=preview_1]\n\n"
+    description:ru="7ways+ Россия\n\n"
+"  Расширенный+ спидкам Россия для скина 7ways+ и других скинов, поддерживающих расширенный+ набор уведомлений.\n"
+"Если вы увидели некорректные данные или знаете объекты, которых нет в этих speedcam, добавьте их на бесплатном проекте [url=openspeedcam.net]openSpeedcam.net[/url]\n"
+"[center][picture=preview_1][/center]\n\n"
+
+	descFiles="preview_1.png"
+    type="speedcam"
+
+    zipSize="1694286"
+	addonSize="6914599"
+	
+	provider="[url=openspeedcam.net][b]openSpeedcam.net[/b][/url] собрано [url=newnavitel.blogspot.com][b]newnavitel.blogspot.com[/b][/url]"
+    url="https://basovandrey.github.io/Content/Speedcam/7ways+_RU.zip"
+	programVer="1.81"
+ 
+  />
