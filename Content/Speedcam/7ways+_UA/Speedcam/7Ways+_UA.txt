@@ -1,4 +1,4 @@
-IDX,X,Y,TYPE,SPEED,DirType,Direction,Distance,Angle // 17.08.2020_OpenSpeedcam =>> 7 Ways v 2.0
+IDX,X,Y,TYPE,SPEED,DirType,Direction,Distance,Angle // 18.08.2020_OpenSpeedcam =>> 7 Ways v 2.0
 1,34.424651,45.72851,202,60,1,3,500,15
 1,34.424651,45.72851,222,60,1,183,500,15
 2,34.0706,44.429045,202,60,1,37,500,24
